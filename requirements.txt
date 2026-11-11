@@ -6,3 +6,4 @@ Pillow>=10.3           # text/caption/logo rendering (moviepy dependency)
 opencv-python>=4.9     # 4K upscaling, resizing, colour grading
 faster-whisper>=1.0    # local speech transcription with timestamps
 auto-editor>=24        # silence detection and removal
+av>=14,<17             # pinned: faster-whisper breaks on av 19
