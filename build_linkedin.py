@@ -120,12 +120,14 @@ def caption_png(words, path):
 # ---- shots: tight cuts + zoom cycle --------------------------------------------------------
 def load():
     data = json.load(open(WORK / "words.json"))
+    speech_end = json.load(open(WORK / "speech_end.json"))
     clips = {}
     for i in range(1, 9):
         c = data[str(i)]
         words = [(FIX.get(i, {}).get(w, w), s, e) for w, s, e in c["words"]]
+        # cut ~0.06 s after the measured end of speech (work/speech_end.py), not Whisper's padded word end
         clips[i] = dict(words=words, s0=max(0, c["rms_start"] - 0.05),
-                        e0=min(words[-1][2] + 0.05, c["rms_end"] + 0.02))
+                        e0=min(words[-1][2], speech_end[str(i)]) + 0.06)
     return clips
 
 
