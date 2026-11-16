@@ -108,7 +108,8 @@ def build_edl(clips, total):
     game = lambda t0, t1, f, a, b: dict(kind="game", t0=t0, t1=t1, src=f, a=a, b=b)
     face = lambda t0, t1, i, z: dict(kind="face", t0=t0, t1=t1, clip=i, z=z)
     shots = [
-        game(0, E(1), "01-corridor", 0.0, 6.0),
+        face(S(1), Wd(1, "we"), 1, 1.28), face(Wd(1, "we"), Wd(1, "but"), 1, 1.10),
+        game(Wd(1, "but"), E(1), "01-corridor", 0.0, 6.0),
         face(S(2), Wd(2, "student"), 2, 1.10), face(Wd(2, "student"), E(2), 2, 1.30),
         game(S(3), Wd(3, "choose"), "02-enrol", 0.8, 2.4),
         game(Wd(3, "choose"), Wd(3, "red"), "02-enrol", 2.4, 3.3),
@@ -143,7 +144,7 @@ def build_edl(clips, total):
     def seg(t, c): return {"text": t, "color": c}
     L = lambda size, *segs: {"size": size, "segs": list(segs)}
     st = [
-        dict(id="hook", top=560, t0=0.0, t1=grid(Wd(1, "we") + 0.6), lines=[L(54, seg("I MADE A", "navy")), L(66, seg("STUDENT OF THE YEAR", "red")), L(54, seg("GAME", "navy"))]),
+        dict(id="hook", top=300, t0=0.0, t1=Wd(1, "but"), lines=[L(54, seg("I MADE A", "navy")), L(66, seg("STUDENT OF THE YEAR", "red")), L(54, seg("GAME", "navy"))]),
         dict(id="house", t0=S(3), t1=grid(E(3) + 0.3), lines=[L(78, seg("RED HOUSE", "red")), L(58, seg("or ", "maroon"), seg("BLUE HOUSE?", "navy"))]),
         dict(id="rounds", t0=Wd(4, "you"), t1=E(4), lines=[L(84, seg("4 ROUNDS", "red")), L(52, seg("TO SURVIVE", "navy"))]),
         dict(id="r1", top=1010, t0=S(5), t1=Wd(5, "quiz"), lines=[L(48, seg("ROUND 1", "red")), L(84, seg("PENALTIES", "navy"))]),
@@ -174,6 +175,10 @@ def build_edl(clips, total):
 
 # ---------------- rendering ---------------------------------------------------------------------
 def render_shot(k, sh, clips):
+    if not PREVIEW:                                       # reuse a finished 4K shot
+        for q in (WORK / f"shot_{k:02d}.mp4", WORK / f"shot_{k:02d}_0.mp4"):
+            if q.exists():
+                return q
     d = round((sh["t1"] - sh["t0"]) * FPS) / FPS
     out = WORK / f"shot_{k:02d}{'_p' if PREVIEW else ''}.mp4"
     common = ["-c:v", "libx264", "-preset", "veryfast", "-crf", 24 if PREVIEW else 14, "-pix_fmt", "yuv420p", "-r", FPS, "-an"]
