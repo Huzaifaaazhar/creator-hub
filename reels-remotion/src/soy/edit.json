@@ -1,0 +1,1553 @@
+{
+ "fps": 30,
+ "durationInFrames": 1433,
+ "captions": [
+  {
+   "text": " Student",
+   "startMs": 59,
+   "endMs": 1020,
+   "timestampMs": 539,
+   "confidence": null
+  },
+  {
+   "text": " of",
+   "startMs": 1020,
+   "endMs": 1260,
+   "timestampMs": 1140,
+   "confidence": null
+  },
+  {
+   "text": " the",
+   "startMs": 1260,
+   "endMs": 1380,
+   "timestampMs": 1320,
+   "confidence": null
+  },
+  {
+   "text": " Year",
+   "startMs": 1380,
+   "endMs": 1500,
+   "timestampMs": 1440,
+   "confidence": null
+  },
+  {
+   "text": " college",
+   "startMs": 1500,
+   "endMs": 2000,
+   "timestampMs": 1750,
+   "confidence": null
+  },
+  {
+   "text": " we",
+   "startMs": 2000,
+   "endMs": 2440,
+   "timestampMs": 2220,
+   "confidence": null
+  },
+  {
+   "text": " have",
+   "startMs": 2440,
+   "endMs": 2500,
+   "timestampMs": 2470,
+   "confidence": null
+  },
+  {
+   "text": " seen",
+   "startMs": 2500,
+   "endMs": 2560,
+   "timestampMs": 2530,
+   "confidence": null
+  },
+  {
+   "text": " only",
+   "startMs": 2560,
+   "endMs": 2760,
+   "timestampMs": 2660,
+   "confidence": null
+  },
+  {
+   "text": " in",
+   "startMs": 2760,
+   "endMs": 2820,
+   "timestampMs": 2790,
+   "confidence": null
+  },
+  {
+   "text": " movies,",
+   "startMs": 2820,
+   "endMs": 3120,
+   "timestampMs": 2970,
+   "confidence": null
+  },
+  {
+   "text": " but",
+   "startMs": 3940,
+   "endMs": 4100,
+   "timestampMs": 4020,
+   "confidence": null
+  },
+  {
+   "text": " what",
+   "startMs": 4100,
+   "endMs": 4340,
+   "timestampMs": 4220,
+   "confidence": null
+  },
+  {
+   "text": " if",
+   "startMs": 4340,
+   "endMs": 4540,
+   "timestampMs": 4440,
+   "confidence": null
+  },
+  {
+   "text": " we",
+   "startMs": 4540,
+   "endMs": 4720,
+   "timestampMs": 4630,
+   "confidence": null
+  },
+  {
+   "text": " could",
+   "startMs": 4720,
+   "endMs": 4940,
+   "timestampMs": 4830,
+   "confidence": null
+  },
+  {
+   "text": " actually",
+   "startMs": 4940,
+   "endMs": 5260,
+   "timestampMs": 5100,
+   "confidence": null
+  },
+  {
+   "text": " experience",
+   "startMs": 5260,
+   "endMs": 5780,
+   "timestampMs": 5520,
+   "confidence": null
+  },
+  {
+   "text": " that",
+   "startMs": 5780,
+   "endMs": 6040,
+   "timestampMs": 5910,
+   "confidence": null
+  },
+  {
+   "text": " student",
+   "startMs": 6040,
+   "endMs": 6420,
+   "timestampMs": 6230,
+   "confidence": null
+  },
+  {
+   "text": " life?",
+   "startMs": 6420,
+   "endMs": 6720,
+   "timestampMs": 6570,
+   "confidence": null
+  },
+  {
+   "text": " I",
+   "startMs": 6933,
+   "endMs": 7233,
+   "timestampMs": 7083,
+   "confidence": null
+  },
+  {
+   "text": " made",
+   "startMs": 7233,
+   "endMs": 7433,
+   "timestampMs": 7333,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 7433,
+   "endMs": 7573,
+   "timestampMs": 7503,
+   "confidence": null
+  },
+  {
+   "text": " game",
+   "startMs": 7573,
+   "endMs": 7673,
+   "timestampMs": 7623,
+   "confidence": null
+  },
+  {
+   "text": " for",
+   "startMs": 7673,
+   "endMs": 7893,
+   "timestampMs": 7783,
+   "confidence": null
+  },
+  {
+   "text": " you",
+   "startMs": 7893,
+   "endMs": 8113,
+   "timestampMs": 8003,
+   "confidence": null
+  },
+  {
+   "text": " guys",
+   "startMs": 8113,
+   "endMs": 8333,
+   "timestampMs": 8223,
+   "confidence": null
+  },
+  {
+   "text": " to",
+   "startMs": 8333,
+   "endMs": 8573,
+   "timestampMs": 8453,
+   "confidence": null
+  },
+  {
+   "text": " experience",
+   "startMs": 8573,
+   "endMs": 9033,
+   "timestampMs": 8803,
+   "confidence": null
+  },
+  {
+   "text": " the",
+   "startMs": 9033,
+   "endMs": 9273,
+   "timestampMs": 9153,
+   "confidence": null
+  },
+  {
+   "text": " life",
+   "startMs": 9273,
+   "endMs": 9393,
+   "timestampMs": 9333,
+   "confidence": null
+  },
+  {
+   "text": " of",
+   "startMs": 9393,
+   "endMs": 9653,
+   "timestampMs": 9523,
+   "confidence": null
+  },
+  {
+   "text": " the",
+   "startMs": 9653,
+   "endMs": 9813,
+   "timestampMs": 9733,
+   "confidence": null
+  },
+  {
+   "text": " students",
+   "startMs": 9813,
+   "endMs": 10133,
+   "timestampMs": 9973,
+   "confidence": null
+  },
+  {
+   "text": " in",
+   "startMs": 10133,
+   "endMs": 10393,
+   "timestampMs": 10263,
+   "confidence": null
+  },
+  {
+   "text": " the",
+   "startMs": 10393,
+   "endMs": 10573,
+   "timestampMs": 10483,
+   "confidence": null
+  },
+  {
+   "text": " student",
+   "startMs": 10573,
+   "endMs": 10773,
+   "timestampMs": 10673,
+   "confidence": null
+  },
+  {
+   "text": " of",
+   "startMs": 10773,
+   "endMs": 11013,
+   "timestampMs": 10893,
+   "confidence": null
+  },
+  {
+   "text": " the Year",
+   "startMs": 11013,
+   "endMs": 11153,
+   "timestampMs": 11083,
+   "confidence": null
+  },
+  {
+   "text": " movie.",
+   "startMs": 11153,
+   "endMs": 11413,
+   "timestampMs": 11283,
+   "confidence": null
+  },
+  {
+   "text": " First",
+   "startMs": 11466,
+   "endMs": 11806,
+   "timestampMs": 11636,
+   "confidence": null
+  },
+  {
+   "text": " you",
+   "startMs": 11806,
+   "endMs": 11946,
+   "timestampMs": 11876,
+   "confidence": null
+  },
+  {
+   "text": " have",
+   "startMs": 11946,
+   "endMs": 12146,
+   "timestampMs": 12046,
+   "confidence": null
+  },
+  {
+   "text": " to",
+   "startMs": 12146,
+   "endMs": 12306,
+   "timestampMs": 12226,
+   "confidence": null
+  },
+  {
+   "text": " choose",
+   "startMs": 12306,
+   "endMs": 12486,
+   "timestampMs": 12396,
+   "confidence": null
+  },
+  {
+   "text": " your",
+   "startMs": 12486,
+   "endMs": 12726,
+   "timestampMs": 12606,
+   "confidence": null
+  },
+  {
+   "text": " house",
+   "startMs": 12726,
+   "endMs": 13046,
+   "timestampMs": 12886,
+   "confidence": null
+  },
+  {
+   "text": " whether",
+   "startMs": 13046,
+   "endMs": 13466,
+   "timestampMs": 13256,
+   "confidence": null
+  },
+  {
+   "text": " if",
+   "startMs": 13466,
+   "endMs": 13666,
+   "timestampMs": 13566,
+   "confidence": null
+  },
+  {
+   "text": " it's",
+   "startMs": 13666,
+   "endMs": 13866,
+   "timestampMs": 13766,
+   "confidence": null
+  },
+  {
+   "text": " red",
+   "startMs": 13866,
+   "endMs": 14086,
+   "timestampMs": 13976,
+   "confidence": null
+  },
+  {
+   "text": " or",
+   "startMs": 14086,
+   "endMs": 14406,
+   "timestampMs": 14246,
+   "confidence": null
+  },
+  {
+   "text": " blue.",
+   "startMs": 14406,
+   "endMs": 14666,
+   "timestampMs": 14536,
+   "confidence": null
+  },
+  {
+   "text": " Choose",
+   "startMs": 14733,
+   "endMs": 14953,
+   "timestampMs": 14843,
+   "confidence": null
+  },
+  {
+   "text": " your",
+   "startMs": 14953,
+   "endMs": 15173,
+   "timestampMs": 15063,
+   "confidence": null
+  },
+  {
+   "text": " house",
+   "startMs": 15173,
+   "endMs": 15353,
+   "timestampMs": 15263,
+   "confidence": null
+  },
+  {
+   "text": " very",
+   "startMs": 15353,
+   "endMs": 15653,
+   "timestampMs": 15503,
+   "confidence": null
+  },
+  {
+   "text": " carefully,",
+   "startMs": 15653,
+   "endMs": 16073,
+   "timestampMs": 15863,
+   "confidence": null
+  },
+  {
+   "text": " because",
+   "startMs": 16433,
+   "endMs": 16573,
+   "timestampMs": 16503,
+   "confidence": null
+  },
+  {
+   "text": " before",
+   "startMs": 16573,
+   "endMs": 16933,
+   "timestampMs": 16753,
+   "confidence": null
+  },
+  {
+   "text": " anybody",
+   "startMs": 16933,
+   "endMs": 17333,
+   "timestampMs": 17133,
+   "confidence": null
+  },
+  {
+   "text": " touches",
+   "startMs": 17333,
+   "endMs": 17673,
+   "timestampMs": 17503,
+   "confidence": null
+  },
+  {
+   "text": " the",
+   "startMs": 17673,
+   "endMs": 17893,
+   "timestampMs": 17783,
+   "confidence": null
+  },
+  {
+   "text": " trophy,",
+   "startMs": 17893,
+   "endMs": 18153,
+   "timestampMs": 18023,
+   "confidence": null
+  },
+  {
+   "text": " you",
+   "startMs": 18413,
+   "endMs": 18533,
+   "timestampMs": 18473,
+   "confidence": null
+  },
+  {
+   "text": " have",
+   "startMs": 18533,
+   "endMs": 18693,
+   "timestampMs": 18613,
+   "confidence": null
+  },
+  {
+   "text": " to",
+   "startMs": 18693,
+   "endMs": 18913,
+   "timestampMs": 18803,
+   "confidence": null
+  },
+  {
+   "text": " survive",
+   "startMs": 18913,
+   "endMs": 19153,
+   "timestampMs": 19033,
+   "confidence": null
+  },
+  {
+   "text": " 4",
+   "startMs": 19153,
+   "endMs": 19413,
+   "timestampMs": 19283,
+   "confidence": null
+  },
+  {
+   "text": " rounds.",
+   "startMs": 19413,
+   "endMs": 19753,
+   "timestampMs": 19583,
+   "confidence": null
+  },
+  {
+   "text": " Penalties",
+   "startMs": 19833,
+   "endMs": 20233,
+   "timestampMs": 20033,
+   "confidence": null
+  },
+  {
+   "text": " against",
+   "startMs": 20233,
+   "endMs": 20593,
+   "timestampMs": 20413,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 20593,
+   "endMs": 20793,
+   "timestampMs": 20693,
+   "confidence": null
+  },
+  {
+   "text": " keeper",
+   "startMs": 20793,
+   "endMs": 21013,
+   "timestampMs": 20903,
+   "confidence": null
+  },
+  {
+   "text": " who",
+   "startMs": 21013,
+   "endMs": 21233,
+   "timestampMs": 21123,
+   "confidence": null
+  },
+  {
+   "text": " learns,",
+   "startMs": 21233,
+   "endMs": 21493,
+   "timestampMs": 21363,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 21493,
+   "endMs": 21833,
+   "timestampMs": 21663,
+   "confidence": null
+  },
+  {
+   "text": " quiz",
+   "startMs": 21833,
+   "endMs": 22013,
+   "timestampMs": 21923,
+   "confidence": null
+  },
+  {
+   "text": " section,",
+   "startMs": 22013,
+   "endMs": 22453,
+   "timestampMs": 22233,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 22753,
+   "endMs": 22913,
+   "timestampMs": 22833,
+   "confidence": null
+  },
+  {
+   "text": " treasure",
+   "startMs": 22913,
+   "endMs": 23133,
+   "timestampMs": 23023,
+   "confidence": null
+  },
+  {
+   "text": " hunt,",
+   "startMs": 23133,
+   "endMs": 23393,
+   "timestampMs": 23263,
+   "confidence": null
+  },
+  {
+   "text": " and",
+   "startMs": 23793,
+   "endMs": 23873,
+   "timestampMs": 23833,
+   "confidence": null
+  },
+  {
+   "text": " in",
+   "startMs": 23873,
+   "endMs": 24033,
+   "timestampMs": 23953,
+   "confidence": null
+  },
+  {
+   "text": " the",
+   "startMs": 24033,
+   "endMs": 24253,
+   "timestampMs": 24143,
+   "confidence": null
+  },
+  {
+   "text": " end,",
+   "startMs": 24253,
+   "endMs": 24413,
+   "timestampMs": 24333,
+   "confidence": null
+  },
+  {
+   "text": " a",
+   "startMs": 24733,
+   "endMs": 24793,
+   "timestampMs": 24763,
+   "confidence": null
+  },
+  {
+   "text": " dance",
+   "startMs": 24793,
+   "endMs": 24953,
+   "timestampMs": 24873,
+   "confidence": null
+  },
+  {
+   "text": " battle",
+   "startMs": 24953,
+   "endMs": 25313,
+   "timestampMs": 25133,
+   "confidence": null
+  },
+  {
+   "text": " with",
+   "startMs": 25313,
+   "endMs": 25573,
+   "timestampMs": 25443,
+   "confidence": null
+  },
+  {
+   "text": " the",
+   "startMs": 25573,
+   "endMs": 25753,
+   "timestampMs": 25663,
+   "confidence": null
+  },
+  {
+   "text": " rival",
+   "startMs": 25753,
+   "endMs": 26053,
+   "timestampMs": 25903,
+   "confidence": null
+  },
+  {
+   "text": " house.",
+   "startMs": 26053,
+   "endMs": 26393,
+   "timestampMs": 26223,
+   "confidence": null
+  },
+  {
+   "text": " So",
+   "startMs": 26500,
+   "endMs": 26940,
+   "timestampMs": 26720,
+   "confidence": null
+  },
+  {
+   "text": " can",
+   "startMs": 26940,
+   "endMs": 27120,
+   "timestampMs": 27030,
+   "confidence": null
+  },
+  {
+   "text": " you",
+   "startMs": 27120,
+   "endMs": 27300,
+   "timestampMs": 27210,
+   "confidence": null
+  },
+  {
+   "text": " actually",
+   "startMs": 27300,
+   "endMs": 27780,
+   "timestampMs": 27540,
+   "confidence": null
+  },
+  {
+   "text": " become",
+   "startMs": 27780,
+   "endMs": 28020,
+   "timestampMs": 27900,
+   "confidence": null
+  },
+  {
+   "text": " the",
+   "startMs": 28020,
+   "endMs": 28260,
+   "timestampMs": 28140,
+   "confidence": null
+  },
+  {
+   "text": " student",
+   "startMs": 28260,
+   "endMs": 28500,
+   "timestampMs": 28380,
+   "confidence": null
+  },
+  {
+   "text": " of",
+   "startMs": 28500,
+   "endMs": 28740,
+   "timestampMs": 28620,
+   "confidence": null
+  },
+  {
+   "text": " the",
+   "startMs": 28740,
+   "endMs": 28920,
+   "timestampMs": 28830,
+   "confidence": null
+  },
+  {
+   "text": " year?",
+   "startMs": 28920,
+   "endMs": 29060,
+   "timestampMs": 28990,
+   "confidence": null
+  },
+  {
+   "text": " You",
+   "startMs": 29153,
+   "endMs": 29333,
+   "timestampMs": 29243,
+   "confidence": null
+  },
+  {
+   "text": " have",
+   "startMs": 29333,
+   "endMs": 29553,
+   "timestampMs": 29443,
+   "confidence": null
+  },
+  {
+   "text": " to",
+   "startMs": 29553,
+   "endMs": 29713,
+   "timestampMs": 29633,
+   "confidence": null
+  },
+  {
+   "text": " score",
+   "startMs": 29713,
+   "endMs": 29893,
+   "timestampMs": 29803,
+   "confidence": null
+  },
+  {
+   "text": " the",
+   "startMs": 29893,
+   "endMs": 30133,
+   "timestampMs": 30013,
+   "confidence": null
+  },
+  {
+   "text": " highest",
+   "startMs": 30133,
+   "endMs": 30433,
+   "timestampMs": 30283,
+   "confidence": null
+  },
+  {
+   "text": " among",
+   "startMs": 30433,
+   "endMs": 30713,
+   "timestampMs": 30573,
+   "confidence": null
+  },
+  {
+   "text": " all.",
+   "startMs": 30713,
+   "endMs": 30853,
+   "timestampMs": 30783,
+   "confidence": null
+  },
+  {
+   "text": " If",
+   "startMs": 32733,
+   "endMs": 32953,
+   "timestampMs": 32843,
+   "confidence": null
+  },
+  {
+   "text": " you",
+   "startMs": 32953,
+   "endMs": 33173,
+   "timestampMs": 33063,
+   "confidence": null
+  },
+  {
+   "text": " score",
+   "startMs": 33173,
+   "endMs": 33393,
+   "timestampMs": 33283,
+   "confidence": null
+  },
+  {
+   "text": " the",
+   "startMs": 33393,
+   "endMs": 33633,
+   "timestampMs": 33513,
+   "confidence": null
+  },
+  {
+   "text": " highest,",
+   "startMs": 33633,
+   "endMs": 33873,
+   "timestampMs": 33753,
+   "confidence": null
+  },
+  {
+   "text": " you",
+   "startMs": 33973,
+   "endMs": 34093,
+   "timestampMs": 34033,
+   "confidence": null
+  },
+  {
+   "text": " will",
+   "startMs": 34093,
+   "endMs": 34333,
+   "timestampMs": 34213,
+   "confidence": null
+  },
+  {
+   "text": " become",
+   "startMs": 34333,
+   "endMs": 34573,
+   "timestampMs": 34453,
+   "confidence": null
+  },
+  {
+   "text": " the",
+   "startMs": 34573,
+   "endMs": 34793,
+   "timestampMs": 34683,
+   "confidence": null
+  },
+  {
+   "text": " student",
+   "startMs": 34793,
+   "endMs": 35033,
+   "timestampMs": 34913,
+   "confidence": null
+  },
+  {
+   "text": " of",
+   "startMs": 35033,
+   "endMs": 35273,
+   "timestampMs": 35153,
+   "confidence": null
+  },
+  {
+   "text": " the",
+   "startMs": 35273,
+   "endMs": 35453,
+   "timestampMs": 35363,
+   "confidence": null
+  },
+  {
+   "text": " year",
+   "startMs": 35453,
+   "endMs": 35613,
+   "timestampMs": 35533,
+   "confidence": null
+  },
+  {
+   "text": " and",
+   "startMs": 35613,
+   "endMs": 35993,
+   "timestampMs": 35803,
+   "confidence": null
+  },
+  {
+   "text": " your",
+   "startMs": 35993,
+   "endMs": 36193,
+   "timestampMs": 36093,
+   "confidence": null
+  },
+  {
+   "text": " name",
+   "startMs": 36193,
+   "endMs": 36353,
+   "timestampMs": 36273,
+   "confidence": null
+  },
+  {
+   "text": " will",
+   "startMs": 36353,
+   "endMs": 36613,
+   "timestampMs": 36483,
+   "confidence": null
+  },
+  {
+   "text": " be",
+   "startMs": 36613,
+   "endMs": 36773,
+   "timestampMs": 36693,
+   "confidence": null
+  },
+  {
+   "text": " engraved",
+   "startMs": 36773,
+   "endMs": 37073,
+   "timestampMs": 36923,
+   "confidence": null
+  },
+  {
+   "text": " on",
+   "startMs": 37073,
+   "endMs": 37253,
+   "timestampMs": 37163,
+   "confidence": null
+  },
+  {
+   "text": " the",
+   "startMs": 37253,
+   "endMs": 37413,
+   "timestampMs": 37333,
+   "confidence": null
+  },
+  {
+   "text": " trophy.",
+   "startMs": 37413,
+   "endMs": 37633,
+   "timestampMs": 37523,
+   "confidence": null
+  },
+  {
+   "text": " It's",
+   "startMs": 37700,
+   "endMs": 38020,
+   "timestampMs": 37860,
+   "confidence": null
+  },
+  {
+   "text": " totally",
+   "startMs": 38020,
+   "endMs": 38240,
+   "timestampMs": 38130,
+   "confidence": null
+  },
+  {
+   "text": " free",
+   "startMs": 38240,
+   "endMs": 38520,
+   "timestampMs": 38380,
+   "confidence": null
+  },
+  {
+   "text": " and",
+   "startMs": 38520,
+   "endMs": 38780,
+   "timestampMs": 38650,
+   "confidence": null
+  },
+  {
+   "text": " you",
+   "startMs": 38780,
+   "endMs": 38920,
+   "timestampMs": 38850,
+   "confidence": null
+  },
+  {
+   "text": " can",
+   "startMs": 38920,
+   "endMs": 39140,
+   "timestampMs": 39030,
+   "confidence": null
+  },
+  {
+   "text": " play",
+   "startMs": 39140,
+   "endMs": 39320,
+   "timestampMs": 39230,
+   "confidence": null
+  },
+  {
+   "text": " it",
+   "startMs": 39320,
+   "endMs": 39480,
+   "timestampMs": 39400,
+   "confidence": null
+  },
+  {
+   "text": " in",
+   "startMs": 39480,
+   "endMs": 39600,
+   "timestampMs": 39540,
+   "confidence": null
+  },
+  {
+   "text": " your",
+   "startMs": 39600,
+   "endMs": 39740,
+   "timestampMs": 39670,
+   "confidence": null
+  },
+  {
+   "text": " browser.",
+   "startMs": 39740,
+   "endMs": 39980,
+   "timestampMs": 39860,
+   "confidence": null
+  },
+  {
+   "text": " Comment",
+   "startMs": 40133,
+   "endMs": 40573,
+   "timestampMs": 40353,
+   "confidence": null
+  },
+  {
+   "text": " down",
+   "startMs": 40573,
+   "endMs": 40873,
+   "timestampMs": 40723,
+   "confidence": null
+  },
+  {
+   "text": " below",
+   "startMs": 40873,
+   "endMs": 41033,
+   "timestampMs": 40953,
+   "confidence": null
+  },
+  {
+   "text": " if",
+   "startMs": 41033,
+   "endMs": 41213,
+   "timestampMs": 41123,
+   "confidence": null
+  },
+  {
+   "text": " you",
+   "startMs": 41213,
+   "endMs": 41413,
+   "timestampMs": 41313,
+   "confidence": null
+  },
+  {
+   "text": " want",
+   "startMs": 41413,
+   "endMs": 41573,
+   "timestampMs": 41493,
+   "confidence": null
+  },
+  {
+   "text": " to",
+   "startMs": 41573,
+   "endMs": 41773,
+   "timestampMs": 41673,
+   "confidence": null
+  },
+  {
+   "text": " try",
+   "startMs": 41773,
+   "endMs": 41893,
+   "timestampMs": 41833,
+   "confidence": null
+  },
+  {
+   "text": " it",
+   "startMs": 41893,
+   "endMs": 42113,
+   "timestampMs": 42003,
+   "confidence": null
+  },
+  {
+   "text": " out,",
+   "startMs": 42113,
+   "endMs": 42293,
+   "timestampMs": 42203,
+   "confidence": null
+  },
+  {
+   "text": " I",
+   "startMs": 42453,
+   "endMs": 42513,
+   "timestampMs": 42483,
+   "confidence": null
+  },
+  {
+   "text": " will",
+   "startMs": 42513,
+   "endMs": 42633,
+   "timestampMs": 42573,
+   "confidence": null
+  },
+  {
+   "text": " send",
+   "startMs": 42633,
+   "endMs": 42833,
+   "timestampMs": 42733,
+   "confidence": null
+  },
+  {
+   "text": " you",
+   "startMs": 42833,
+   "endMs": 43093,
+   "timestampMs": 42963,
+   "confidence": null
+  },
+  {
+   "text": " the",
+   "startMs": 43093,
+   "endMs": 43213,
+   "timestampMs": 43153,
+   "confidence": null
+  },
+  {
+   "text": " link.",
+   "startMs": 43213,
+   "endMs": 43366,
+   "timestampMs": 43289,
+   "confidence": null
+  },
+  {
+   "text": " And",
+   "startMs": 43366,
+   "endMs": 43720,
+   "timestampMs": 43543,
+   "confidence": null
+  },
+  {
+   "text": " also",
+   "startMs": 43720,
+   "endMs": 44100,
+   "timestampMs": 43910,
+   "confidence": null
+  },
+  {
+   "text": " comment",
+   "startMs": 44100,
+   "endMs": 44420,
+   "timestampMs": 44260,
+   "confidence": null
+  },
+  {
+   "text": " below",
+   "startMs": 44420,
+   "endMs": 44700,
+   "timestampMs": 44560,
+   "confidence": null
+  },
+  {
+   "text": " if",
+   "startMs": 44700,
+   "endMs": 44960,
+   "timestampMs": 44830,
+   "confidence": null
+  },
+  {
+   "text": " you",
+   "startMs": 44960,
+   "endMs": 45140,
+   "timestampMs": 45050,
+   "confidence": null
+  },
+  {
+   "text": " want",
+   "startMs": 45140,
+   "endMs": 45320,
+   "timestampMs": 45230,
+   "confidence": null
+  },
+  {
+   "text": " me",
+   "startMs": 45320,
+   "endMs": 45500,
+   "timestampMs": 45410,
+   "confidence": null
+  },
+  {
+   "text": " to",
+   "startMs": 45500,
+   "endMs": 45760,
+   "timestampMs": 45630,
+   "confidence": null
+  },
+  {
+   "text": " make",
+   "startMs": 45760,
+   "endMs": 45980,
+   "timestampMs": 45870,
+   "confidence": null
+  },
+  {
+   "text": " another",
+   "startMs": 45980,
+   "endMs": 46400,
+   "timestampMs": 46190,
+   "confidence": null
+  },
+  {
+   "text": " game",
+   "startMs": 46400,
+   "endMs": 46680,
+   "timestampMs": 46540,
+   "confidence": null
+  },
+  {
+   "text": " on",
+   "startMs": 46680,
+   "endMs": 46920,
+   "timestampMs": 46800,
+   "confidence": null
+  },
+  {
+   "text": " your",
+   "startMs": 46920,
+   "endMs": 47100,
+   "timestampMs": 47010,
+   "confidence": null
+  },
+  {
+   "text": " favorite",
+   "startMs": 47100,
+   "endMs": 47440,
+   "timestampMs": 47270,
+   "confidence": null
+  },
+  {
+   "text": " movie.",
+   "startMs": 47440,
+   "endMs": 47720,
+   "timestampMs": 47580,
+   "confidence": null
+  }
+ ],
+ "stickers": [
+  {
+   "id": "hook",
+   "top": 560,
+   "t0": 0.0,
+   "t1": 2.6,
+   "lines": [
+    {
+     "size": 54,
+     "segs": [
+      {
+       "text": "I MADE A",
+       "color": "navy"
+      }
+     ]
+    },
+    {
+     "size": 66,
+     "segs": [
+      {
+       "text": "STUDENT OF THE YEAR",
+       "color": "red"
+      }
+     ]
+    },
+    {
+     "size": 54,
+     "segs": [
+      {
+       "text": "GAME",
+       "color": "navy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "house",
+   "t0": 11.467,
+   "t1": 15.033,
+   "lines": [
+    {
+     "size": 78,
+     "segs": [
+      {
+       "text": "RED HOUSE",
+       "color": "red"
+      }
+     ]
+    },
+    {
+     "size": 58,
+     "segs": [
+      {
+       "text": "or ",
+       "color": "maroon"
+      },
+      {
+       "text": "BLUE HOUSE?",
+       "color": "navy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rounds",
+   "t0": 18.4,
+   "t1": 19.833,
+   "lines": [
+    {
+     "size": 84,
+     "segs": [
+      {
+       "text": "4 ROUNDS",
+       "color": "red"
+      }
+     ]
+    },
+    {
+     "size": 52,
+     "segs": [
+      {
+       "text": "TO SURVIVE",
+       "color": "navy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r1",
+   "top": 1010,
+   "t0": 19.833,
+   "t1": 21.833,
+   "lines": [
+    {
+     "size": 48,
+     "segs": [
+      {
+       "text": "ROUND 1",
+       "color": "red"
+      }
+     ]
+    },
+    {
+     "size": 84,
+     "segs": [
+      {
+       "text": "PENALTIES",
+       "color": "navy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "t0": 21.833,
+   "t1": 22.9,
+   "lines": [
+    {
+     "size": 48,
+     "segs": [
+      {
+       "text": "ROUND 2",
+       "color": "red"
+      }
+     ]
+    },
+    {
+     "size": 84,
+     "segs": [
+      {
+       "text": "QUIZ",
+       "color": "navy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "t0": 22.9,
+   "t1": 24.767,
+   "lines": [
+    {
+     "size": 48,
+     "segs": [
+      {
+       "text": "ROUND 3",
+       "color": "red"
+      }
+     ]
+    },
+    {
+     "size": 70,
+     "segs": [
+      {
+       "text": "TREASURE HUNT",
+       "color": "navy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r4",
+   "t0": 24.767,
+   "t1": 26.5,
+   "lines": [
+    {
+     "size": 48,
+     "segs": [
+      {
+       "text": "ROUND 4",
+       "color": "red"
+      }
+     ]
+    },
+    {
+     "size": 70,
+     "segs": [
+      {
+       "text": "DANCE BATTLE",
+       "color": "navy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hit",
+   "t0": 29.167,
+   "t1": 32.733,
+   "count": {
+    "to": 850,
+    "label": "CAN YOU HIT 850?",
+    "rollSeconds": 1.7
+   }
+  },
+  {
+   "id": "score",
+   "t0": 34.8,
+   "t1": 36.2,
+   "lines": [
+    {
+     "size": 130,
+     "segs": [
+      {
+       "text": "883",
+       "color": "red"
+      }
+     ]
+    },
+    {
+     "size": 56,
+     "segs": [
+      {
+       "text": "STUDENT OF THE YEAR",
+       "color": "navy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "free",
+   "t0": 37.7,
+   "t1": 40.133,
+   "top": 300,
+   "lines": [
+    {
+     "size": 76,
+     "segs": [
+      {
+       "text": "FREE",
+       "color": "red"
+      },
+      {
+       "text": " \u00b7 NO APP",
+       "color": "navy"
+      }
+     ]
+    },
+    {
+     "size": 44,
+     "segs": [
+      {
+       "text": "PLAY IN YOUR BROWSER",
+       "color": "maroon"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "link",
+   "t0": 40.133,
+   "t1": 43.367,
+   "top": 300,
+   "lines": [
+    {
+     "size": 70,
+     "segs": [
+      {
+       "text": "COMMENT BELOW",
+       "color": "red"
+      }
+     ]
+    },
+    {
+     "size": 48,
+     "segs": [
+      {
+       "text": "FOR THE LINK",
+       "color": "navy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "next",
+   "t0": 45.967,
+   "t1": 47.767,
+   "lines": [
+    {
+     "size": 70,
+     "segs": [
+      {
+       "text": "NEXT GAME?",
+       "color": "red"
+      }
+     ]
+    },
+    {
+     "size": 48,
+     "segs": [
+      {
+       "text": "YOUR FAVORITE MOVIE",
+       "color": "navy"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
